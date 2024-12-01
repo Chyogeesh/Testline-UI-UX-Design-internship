@@ -25,4 +25,33 @@ Show the mascot holding a notification banner with motivational quotes like "Kee
 3. Tools for Designing
 Adobe Illustrator/Photoshop: For mascot illustration.
 Figma/Adobe XD: For designing the app screen.
+Steps to Submit the Assignment
+Create the mascot using a design tool (e.g., Illustrator, Photoshop, or Figma). Export it as a .png file.
+Design the app screen layout, integrating the mascot into the user interface.
+Code the app screen (use frameworks like Flutter or React Native).
+Share your prototype and code repository (e.g., GitHub link) with the Testline team.
+Output Description
+Once the app screen is launched, users will see:
+
+A vibrant mascot greeting them with motivational messages.
+A clean, interactive UI that aligns with the app's educational theme.
+The mascot adding a personal, supportive touch to enhance user engagement.
+Let me know if you’d like help with any part of this project
+Mascot Suggestions
+Name:
+T.L.: Short for "Testline"
+Appearance:
+A cheerful, animated character like:
+A wise, young owl (symbolizing knowledge).
+A quirky pencil or notebook with big, expressive eyes.
+A futuristic robot helper for a tech-savvy vibe.
+Description
+Purpose: The mascot acts as a friendly guide, helping students navigate the app while keeping them motivated.
+Connection: The mascot’s approachable design and encouraging messages resonate with the target audience (students).
+Integration: Fits seamlessly into the app, appearing on homepages, notifications, and progress screens.
+Next Steps
+Design the mascot using tools like Figma.
+Export assets (testline-mascot.png, mascot-animation.json) into your React Native project.
+Use the above code to create interactive app screens.
+Deploy and gather feedback on usability and appeal.
 Canva: For quick prototyping (optional).
